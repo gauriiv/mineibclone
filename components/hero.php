@@ -28,6 +28,7 @@ $hero_desc = "MINEIB designs, builds, and markets high-performing websites for b
                 <strong>120+</strong>
                 <span>Projects Delivered</span>
             </div>
+
             <div>
                 <strong>98%</strong>
                 <span>Client Retention</span>
