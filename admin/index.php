@@ -14,9 +14,7 @@
     include '../components/services.php';
 ?>
 
-<?php
-    include '../components/portfolio.php';
-?>
+
 
 <?php
     include '../components/testimonials.php';

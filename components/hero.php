@@ -19,8 +19,8 @@ $hero_desc = "MINEIB designs, builds, and markets high-performing websites for b
         <p><?php echo $hero_desc; ?></p>
 
         <div class="hero-buttons">
-            <a href="contact.php" class="btn-cta">Start a Project</a>
-            <a href="portfolio.php" class="btn-outline">View Our Work</a>
+            <a href="/mineibclone/contact.php" class="btn-cta">Start a Project</a>
+            <a href="/mineibclone/services.php" class="btn-outline">Our Services</a>
         </div>
 
         <div class="hero-stats">
